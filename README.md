@@ -1,4 +1,4 @@
-### Hi there 👋
+### "Oi" there 👋
 From "IT Boy" 👦🏻 in my teen ages to my actual role at IT consultant and developer 👨🏻‍🔧 for clientes and stakeholders as a Software and Front End Interfaces, I always persue this simple desire: helping people. 🤝
 
 In Brazil I research and apply technologies for over 10 years for the sake of growing, rethinking, and organizing processes simple for dozens of companies.
