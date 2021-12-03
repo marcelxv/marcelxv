@@ -5,7 +5,7 @@ In Brazil I research and apply technologies for over 10 years for the sake of gr
 
 Graduated in journalism and web development, I also teach and learn: design, digital marketing, business plan and artificial intelligence. I currently live in Brazil. I'm vegan.
 
-👽 Specialties: 
+### 👽 Specialties: 
 · Software and App Planning
 · Digital Business Planning
 · Web Design (Figma Nerd) and UI
@@ -17,7 +17,7 @@ Graduated in journalism and web development, I also teach and learn: design, dig
 · Javascript (for Front End)
 · NoCode Tools (how to make Companies outsourcing and expend less by not reivinent the wheel?)
 
-👨🏽‍🚀 Actual learning
+#### 👨🏽‍🚀 Actual learning
 · Artificial Inteligence (GPT-3 Beta Tester)
 · Elixir
 · Blockchain
