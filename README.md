@@ -1,16 +1,25 @@
 ### Hi there 👋
+From "IT Boy" 👦🏻 in my teen ages to my actual role at IT consultant and developer 👨🏻‍🔧 for clientes and stakeholders as a Software and Front End Interfaces, I always persue this simple desire: helping people. 🤝
 
-<!--
-**marcelxv/marcelxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In Brazil I research and apply technologies for over 10 years for the sake of growing, rethinking, and organizing processes simple for dozens of companies.
 
-Here are some ideas to get you started:
+Graduated in journalism and web development, I also teach and learn: design, digital marketing, business plan and artificial intelligence. I currently live in Brazil. I'm vegan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👽 Specialties: 
+· Software and App Planning
+· Digital Business Planning
+· Web Design (Figma Nerd) and UI
+· UX (user flows, SEO, Balsamiq Mockups)
+· HTML5
+· CSS3
+· Wordpress – Theme Developer
+· Woocommerce 
+· Javascript (for Front End)
+· NoCode Tools (how to make Companies outsourcing and expend less by not reivinent the wheel?)
+
+👨🏽‍🚀 Actual learning
+· Artificial Inteligence (GPT-3 Beta Tester)
+· Elixir
+· Blockchain
+· React.JS
+· Node.JS
