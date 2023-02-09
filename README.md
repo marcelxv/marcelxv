@@ -1,21 +1,19 @@
-### "Oi" there 👋
-From "IT Boy" 👦🏻 in my teen ages to my actual role at IT consultant and developer of Software and Front End Interfaces, I always persue this simple desire: helping people to create better digital experiences. 🤝
+### "Hello" there 👋
+From being an "IT Boy" 👦🏻 during my teenage years to my current role as an IT consultant and software and front-end interface developer, I have always pursued a simple goal: to help people create better digital experiences. 🤝
 
-In Brazil I research and apply technologies for over 10 years for the sake of growing, rethinking, and organizing processes simple for dozens of companies.
+For over a decade, I have been researching and applying technology in Brazil to streamline processes for dozens of companies.
 
-Graduated in journalism and web development, I also teach and learn: design, digital marketing, business plan and artificial intelligence. I currently live in Brazil. I'm vegan.
+With a background in journalism and web development, I also enjoy teaching and learning about design, digital marketing, business planning, and artificial intelligence. Currently based in Brazil, I am also a vegan.
 
-### 👽 Specialties: 
-· Software and App Planning
-· Digital Business Planning
-· Web Design (Figma Nerd) and UI
-· UX (user flows, SEO, Balsamiq Mockups)
-· HTML5
-· CSS3
-· Wordpress – Theme Developer
-· Woocommerce 
-· Javascript (for Front End)
-· NoCode Tools (how to make Companies outsourcing and expend less by not reivinent the wheel?)
+👽 Specialties:
+• Software and app planning
+• Digital business planning
+• Web design (Figma nerd) and UI/UX (user flows, SEO, Balsamiq mockups)
+• HTML5, CSS3
+• Wordpress theme development
+• Woocommerce
+• Javascript (for front-end)
+• NoCode tools (how to help companies save time and money by not reinventing the wheel?)
 
 ##
 
